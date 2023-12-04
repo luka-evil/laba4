@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "шифр", "шифр\шифр.njsproj", "{4CF551DE-BFB4-4409-B315-13F459694793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF551DE-BFB4-4409-B315-13F459694793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF551DE-BFB4-4409-B315-13F459694793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF551DE-BFB4-4409-B315-13F459694793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF551DE-BFB4-4409-B315-13F459694793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282AC973-C468-411D-9279-3BEC9BB2285E}
+	EndGlobalSection
+EndGlobal
